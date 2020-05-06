@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.wmich.cs3310.hw5.main","l":"App"},{"p":"edu.wmich.cs3310.hw5.main","l":"BinaryStreeImplicit"},{"p":"edu.wmich.cs3310.hw5.main","l":"Mydata"}]

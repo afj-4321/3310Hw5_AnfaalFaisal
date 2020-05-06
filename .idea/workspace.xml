@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec778b13-6bf5-4a6d-bcf7-f2068702b0d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aPKDA6OMryeOuv0Lf2rXi2FCvM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.wmich.cs3310.hw5.main.App" />
+      <module name="3310Hw5_AnfaalFaisal" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec778b13-6bf5-4a6d-bcf7-f2068702b0d5" name="Default Changelist" comment="" />
+      <created>1586631667509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586631667509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1102" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586718883140">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="1102" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1440.23.1440.877/0.23.1920.1018@0.23.1920.1018" timestamp="1586718883140" />
+    <state width="1001" height="304" key="GridCell.Tab.0.bottom" timestamp="1586747672222">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state width="1878" height="256" key="GridCell.Tab.0.bottom/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586718546186" />
+    <state width="1001" height="304" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1018@0.23.1920.1018" timestamp="1586747672222" />
+    <state width="1001" height="304" key="GridCell.Tab.0.center" timestamp="1586747672221">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state width="1878" height="256" key="GridCell.Tab.0.center/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586718546184" />
+    <state width="1001" height="304" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1018@0.23.1920.1018" timestamp="1586747672221" />
+    <state width="1001" height="304" key="GridCell.Tab.0.left" timestamp="1586747672221">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state width="1878" height="256" key="GridCell.Tab.0.left/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586718546183" />
+    <state width="1001" height="304" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1018@0.23.1920.1018" timestamp="1586747672221" />
+    <state width="1001" height="304" key="GridCell.Tab.0.right" timestamp="1586747672222">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state width="1878" height="256" key="GridCell.Tab.0.right/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586718546185" />
+    <state width="1001" height="304" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1018@0.23.1920.1018" timestamp="1586747672222" />
+    <state x="238" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586747450491">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="238" y="333" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1018@0.23.1920.1018" timestamp="1586747450491" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../252643-HW5, completed/src/App.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
