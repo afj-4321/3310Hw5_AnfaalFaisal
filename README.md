@@ -5,4 +5,5 @@
 • To understand trees data structures
 • To practice programming using binary search trees
 • Practice developing high-performance solutions.
-• Analyze w
+• Analyze what are the advantages and the disadvantages of various techniques to manipulate
+tree
